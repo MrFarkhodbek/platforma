@@ -1,0 +1,2 @@
+# platforma
+Ta'limga oid
